@@ -9,3 +9,4 @@ Add a hyperlink to your lab1 assignment here:
 * Maïteh Mertens: https://github.com/GY22/WebTech2-Grace.git
 * Niels Meulders: https://github.com/bartgoris/Webtechnologie-Opdracht
 * Brent Stappaerts: https://github.com/bartgoris/Webtechnologie-Opdracht
+* Stephane De Wispelaere: https://github.com/Robke22/Lab1
